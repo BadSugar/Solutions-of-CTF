@@ -11,7 +11,7 @@ Challenge description:
 
 Opening the link(https://malcolm.cisaicsctf.com/extracted-files/) from the description:
 
-![image-20210808023906881](/private/tmp/CTF-Writeups/CISA ICS - CTF/Traffic Analysis/Traffic Analysis - 3/img/directory listing.png)
+![image-20210808023906881](img/directory listing.png)
 
 
 
@@ -23,7 +23,7 @@ Let's open them and see what's inside, shall we?
 
 ### preserved:
 
-![image-20210808024124846](/Users/simonsegars/Library/Application Support/typora-user-images/image-20210808024124846.png)
+![image-20210808024124846](img/image-20210808024124846.png)
 
 There's more.
 
@@ -31,7 +31,7 @@ There's more.
 
 ### Quarantine:
 
-![image-20210808024056767](/private/tmp/CTF-Writeups/CISA ICS - CTF/Traffic Analysis/Traffic Analysis - 3/img/quarantine.png)
+![image-20210808024056767](img/quarantine.png)
 
 
 
