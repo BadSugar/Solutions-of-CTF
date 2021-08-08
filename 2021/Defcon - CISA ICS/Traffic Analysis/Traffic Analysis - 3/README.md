@@ -11,7 +11,7 @@ Challenge description:
 
 Opening the link(https://malcolm.cisaicsctf.com/extracted-files/) from the description:
 
-![image-20210808023906881](img/directory listing.png)
+![image-20210808023906881](img/directory_listing.png)
 
 
 
@@ -23,7 +23,7 @@ Let's open them and see what's inside, shall we?
 
 ### preserved:
 
-![image-20210808024124846](img/image-20210808024124846.png)
+![image-20210808024124846](img/preserved.png)
 
 There's more.
 
